@@ -31,6 +31,7 @@ Virtual reality:
 - [Acer OJO 500](https://www.acer.com/ac/en/US/content/series/acerojo500)
 - [Mirage Solo](https://www.lenovo.com/us/en/daydreamvr) with daydream
 - [Varjo VR-2](https://varjo.com/products/vr-2/)
+- [Pico G2 4K](https://www.pico-interactive.com/en/G2_4K.html)
 
 Augmented reality:
 
