@@ -49,6 +49,8 @@ Augmented reality:
 - [ASUS Windows Mixed Reality Headset (HC102)](https://www.asus.com/us/Headset/ASUS-Windows-Mixed-Reality-Headset-HC102)
 - [Samsung HMD Odyssey - Windows Mixed Reality Headset](https://www.samsung.com/us/computing/hmd/windows-mixed-reality/xe800zaa-hc1us-xe800zaa-hc1us/)
 - [Daqri Smart glasses](https://daqri.com/products/smart-glasses/)
+- [Samsung AR glasses](https://techcrunch.com/2020/01/06/samsung-hints-at-ar-ambitions-shows-off-prototype-glasses/)
+- [Panasonic AR glasses](https://vrscout.com/news/ces-2020-panasonic-hdr-vr-glasses/)
 
 ### Cardboards
 
