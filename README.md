@@ -10,6 +10,10 @@ I put a article teasing it. I also added good ux tutorials about AR/VR/MR.
 
 ## Hardware headsets
 
+Mixed reality:
+
+- [Lynx-R1](https://lynx-r.com/)
+
 Virtual reality:
 
 - [Valve Index](https://store.steampowered.com/valveindex)
