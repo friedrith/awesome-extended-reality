@@ -39,6 +39,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [Google glass 2](https://www.google.com/glass/start/)
 - [Apple AR glasses](https://www.macworld.co.uk/news/apple/apple-ar-glasses-3601447/)
 - [Facebook AR glasses](https://www.theverge.com/2019/9/25/20883706/facebook-ar-glasses-prototypes-live-maps-announce-oc6)
 - [Hololens](https://www.microsoft.com/hololens)
