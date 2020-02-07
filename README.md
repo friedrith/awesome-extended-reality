@@ -39,6 +39,9 @@ Virtual reality:
 
 Augmented reality:
 
+- [Canon MREAL Display MD-20](https://www.roadtovr.com/canon-mreal-display-md-20-ar-mr/)
+- [Bosch Smartglasses Light Drive
+  BML500P](https://www.bosch-sensortec.com/products/optical-microsystems/smartglasses-light-drive/)
 - [Google glass 2](https://www.google.com/glass/start/)
 - [Apple AR glasses](https://www.macworld.co.uk/news/apple/apple-ar-glasses-3601447/)
 - [Facebook AR glasses](https://www.theverge.com/2019/9/25/20883706/facebook-ar-glasses-prototypes-live-maps-announce-oc6)
