@@ -26,6 +26,7 @@ Virtual reality:
 - [HTC Pro Eye](https://www.vive.com/fr/pro-eye/): HTC Headset with eye tracking
 - [HTC Cosmos](https://www.vive.com/fr/cosmos/): HTC with camera included
 - [PlayStation VR](https://www.playstation.com/fr-fr/explore/playstation-vr/)
+  ([VR2 planned for PS5](https://www.bloomberg.com/news/articles/2020-02-14/sony-is-struggling-with-playstation-5-price-due-to-costly-parts))
 - [MI VR](http://www.mi.com/en/mivr/)
 - [Bose audio VR](https://www.bose.com/en_us/products/wearables/frames.html)
 - [Start VR One](https://www.starvr.com/products/): large field of view
