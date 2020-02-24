@@ -25,6 +25,10 @@ Virtual reality:
 - [HTC Vive](https://www.vive.com/)
 - [HTC Pro Eye](https://www.vive.com/fr/pro-eye/): HTC Headset with eye tracking
 - [HTC Cosmos](https://www.vive.com/fr/cosmos/): HTC with camera included
+- [HTC Cosmos
+  Elite](https://www.vive.com/ca-fr/product/vive-cosmos-elite/features/)
+- [HTC Cosmos
+  Elite](https://www.vive.com/ca-fr/product/vive-cosmos-play/overview/)
 - [PlayStation VR](https://www.playstation.com/fr-fr/explore/playstation-vr/)
   ([VR2 planned for PS5](https://www.bloomberg.com/news/articles/2020-02-14/sony-is-struggling-with-playstation-5-price-due-to-costly-parts))
 - [MI VR](http://www.mi.com/en/mivr/)
@@ -40,6 +44,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [HTC Cosmos XR](https://www.vive.com/ca-fr/product/vive-cosmos-xr/)
 - [Canon MREAL Display MD-20](https://www.roadtovr.com/canon-mreal-display-md-20-ar-mr/)
 - [Bosch Smartglasses Light Drive
   BML500P](https://www.bosch-sensortec.com/products/optical-microsystems/smartglasses-light-drive/)
