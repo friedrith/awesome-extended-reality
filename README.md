@@ -44,6 +44,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [Nreal All-in-one](https://venturebeat.com/2020/03/10/nreal-unveils-all-in-one-light-enterprise-ar-headset-for-q4-2020/)
 - [HTC Cosmos XR](https://www.vive.com/ca-fr/product/vive-cosmos-xr/)
 - [Canon MREAL Display MD-20](https://www.roadtovr.com/canon-mreal-display-md-20-ar-mr/)
 - [Bosch Smartglasses Light Drive
@@ -59,7 +60,7 @@ Augmented reality:
 - [Optinvent](http://www.optinvent.com/)
 - [Acer Windows Mixed Reality](https://www.acer.com/ac/en/US/content/series/wmr)
 - [Mix](https://www.kickstarter.com/projects/805968217/mix-the-smallest-ar-glasses-with-immersive-96fov?ref=category&ref=discovery): Smallest AR glasses
-- [Nreal](https://www.nreal.ai/)
+- [Nreal light](https://www.nreal.ai/)
 - [ASUS Windows Mixed Reality Headset (HC102)](https://www.asus.com/us/Headset/ASUS-Windows-Mixed-Reality-Headset-HC102)
 - [Samsung HMD Odyssey - Windows Mixed Reality Headset](https://www.samsung.com/us/computing/hmd/windows-mixed-reality/xe800zaa-hc1us-xe800zaa-hc1us/)
 - [Daqri Smart glasses](https://daqri.com/products/smart-glasses/)
