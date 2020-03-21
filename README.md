@@ -45,6 +45,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [Norm glasse](https://www.normglasses.com/)
 - [Nreal All-in-one](https://venturebeat.com/2020/03/10/nreal-unveils-all-in-one-light-enterprise-ar-headset-for-q4-2020/)
 - [HTC Cosmos XR](https://www.vive.com/ca-fr/product/vive-cosmos-xr/)
 - [Canon MREAL Display MD-20](https://www.roadtovr.com/canon-mreal-display-md-20-ar-mr/)
