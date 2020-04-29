@@ -125,6 +125,7 @@ Augmented reality:
 
 ## Others links
 
+- [Comparaison virtual reality headsets](https://en.wikipedia.org/wiki/Comparison_of_virtual_reality_headsets)
 - [list of free tools](https://makezine.com/2016/03/24/makers-introduction-vr-best-software-tools-free/)
 - [list of Ar sdk](https://thinkmobiles.com/blog/best-ar-sdk-review/)
 - [tutorial VR with web](https://medium.com/@uiuxlab/5-web-vr-frameworks-to-help-developers-build-interesting-design-b4a03197f1f5)
