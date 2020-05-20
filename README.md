@@ -16,6 +16,7 @@ Mixed reality:
 
 Virtual reality:
 
+- [ieght360](https://www.eight360.com/)
 - [Reverb G2 VR](https://www8.hp.com/us/en/vr/reverb-g2-vr-headset.html) by HP
   with Valve and Microsoft
 - [Oculus Del Mar](https://uploadvr.com/oculus-del-mar-quest-2/): Quest 2?
