@@ -47,6 +47,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [LG AR glasses](https://gadgets.ndtv.com/wearables/news/lg-ar-glasses-lightweight-design-launch-2021-report-2266919)
 - [Facebook AR](https://www.facebook.com/TechAtFacebook/videos/2986830764764825/)
 - [Norm glasse](https://www.normglasses.com/)
 - [Nreal All-in-one](https://venturebeat.com/2020/03/10/nreal-unveils-all-in-one-light-enterprise-ar-headset-for-q4-2020/)
