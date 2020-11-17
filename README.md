@@ -47,6 +47,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [Oppo AR glasses](https://www.roadtovr.com/oppo-ar-glasses-2021-release/)
 - [LG AR glasses](https://gadgets.ndtv.com/wearables/news/lg-ar-glasses-lightweight-design-launch-2021-report-2266919)
 - [Facebook AR](https://www.facebook.com/TechAtFacebook/videos/2986830764764825/)
 - [Norm glasse](https://www.normglasses.com/)
