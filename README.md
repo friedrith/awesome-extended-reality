@@ -16,6 +16,7 @@ Mixed reality:
 
 Virtual reality:
 
+- [Varjo VR-3](https://varjo.com/products/vr-3/)
 - [XRSpace Mova](https://www.xrspace.io/us/mova)
 - [ieght360](https://www.eight360.com/)
 - [Reverb G2 VR](https://www8.hp.com/us/en/vr/reverb-g2-vr-headset.html) by HP
@@ -43,10 +44,10 @@ Virtual reality:
 - [HP reverb](https://www8.hp.com/us/en/workstations/mixed-reality-headset/index.html?jumpid=in_r11260_us/en/psg/vr_ready_workstations/productmodule-mixed-reality-headset-learn-more)
 - [Acer OJO 500](https://www.acer.com/ac/en/US/content/series/acerojo500)
 - [Mirage Solo](https://www.lenovo.com/us/en/daydreamvr) with daydream
-- [Varjo VR-2](https://varjo.com/products/vr-2/)
 
 Augmented reality:
 
+- [Varjo XR-3](https://varjo.com/products/xr-3/)
 - [JVCKenwood XR Headset](https://www.roadtovr.com/jvc-enterprise-xr-120-fov-5k-resolution/)
 - [Oppo AR glasses](https://www.roadtovr.com/oppo-ar-glasses-2021-release/)
 - [LG AR glasses](https://gadgets.ndtv.com/wearables/news/lg-ar-glasses-lightweight-design-launch-2021-report-2266919)
