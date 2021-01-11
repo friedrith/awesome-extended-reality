@@ -47,6 +47,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [Lenovo ThinkReality A3](https://techtoday.lenovo.com/ca/en/solutions/thinkreality)
 - [­­Vuzix Smart Glasses Captures 3](https://www.prnewswire.com/news-releases/vuzix-next-generation-smart-glasses-captures-3-ces-2021-innovation-awards-for-outstanding-design-and-engineering-301198635.html)
 - [Varjo XR-3](https://varjo.com/products/xr-3/)
 - [JVCKenwood XR Headset](https://www.roadtovr.com/jvc-enterprise-xr-120-fov-5k-resolution/)
@@ -122,7 +123,7 @@ Virtual reality:
 
 Augmented reality:
 
-- [AR.js](https://github.com/jeromeetienne/AR.js)
+- [AR.js](https://github.com/AR-js-org/AR.js)
 
 ## Ux
 
