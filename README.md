@@ -47,6 +47,7 @@ Virtual reality:
 
 Augmented reality:
 
+- [Rokid vision](https://www.rokid.com/en/rokid-vision/)
 - [Lenovo ThinkReality A3](https://techtoday.lenovo.com/ca/en/solutions/thinkreality)
 - [­­Vuzix Smart Glasses Captures 3](https://www.prnewswire.com/news-releases/vuzix-next-generation-smart-glasses-captures-3-ces-2021-innovation-awards-for-outstanding-design-and-engineering-301198635.html)
 - [Varjo XR-3](https://varjo.com/products/xr-3/)
