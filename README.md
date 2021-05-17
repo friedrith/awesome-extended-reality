@@ -16,6 +16,7 @@ Mixed reality:
 
 Virtual reality:
 
+- [Pico Neo3](https://www.pico-interactive.com/us/neo3.html)
 - [Varjo VR-3](https://varjo.com/products/vr-3/)
 - [XRSpace Mova](https://www.xrspace.io/us/mova)
 - [ieght360](https://www.eight360.com/)
